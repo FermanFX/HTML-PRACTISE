@@ -1,0 +1,39 @@
+.box1 {
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    border-width: 5px;
+    border-color: green;
+
+}
+
+.box2 {
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+    border-color: yellow;
+}
+
+.box3 {
+    width: 358px;
+    height: 620px;
+    background: #B49999;
+    border: 1px solid #000000;
+}
+
+.box4 {
+    margin: auto;
+    width: 278px;
+    height: 243px;
+    background: #ADB499;
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.box5 {
+    margin: auto;
+    width: 278px;
+    height: 243px;
+    background: #a2d611;
+    border: 1px solid #000000;
+}
